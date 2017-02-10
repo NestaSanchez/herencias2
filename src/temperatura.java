@@ -13,7 +13,7 @@ public class temperatura {
 		for(int i=0; i<temperaturas.length; i++){
 			System.out.println("Introduzca las temperaturas");
 			valor = sc.nextInt();
-			temperaturas[i]=valor;
+			temperaturas[i]=valor1;
 			
 		}
 		//El arrays to string nos muestra como un String
