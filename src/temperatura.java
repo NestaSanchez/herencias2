@@ -7,7 +7,7 @@ public class temperatura {
 
 	public static void main(String[] args) {
 		int[] temperaturas= new int [10];
-		int valor;
+		int valor;fhesqfwfwdgwgfwe
 		Scanner sc = new Scanner(System.in);
 
 		for(int i=0; i<temperaturas.length; i++){
